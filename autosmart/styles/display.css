@@ -1,0 +1,53 @@
+.auto {
+    text-align: center;
+    font-size: 35px;
+}
+
+.container-two {
+    display: left;
+}
+
+.background {
+    background-color: lightblue;
+}
+
+
+/* Navbar container */
+
+.navbar {
+    overflow: hidden;
+    background-color: rgb(13, 43, 71);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a {
+    float: left;
+    font-size: 19px;
+    color: white;
+    text-align: center;
+    padding: 19px 19px;
+    text-decoration: none;
+}
+
+.button-one {
+    border-radius: 12px;
+    padding: 15px 07px;
+    background-color: rgb(13, 43, 71);
+}
+
+.font-button {
+    font-size: 19px;
+    color: lightblue;
+}
+
+.control-button {
+    background-color: rgb(13, 43, 71);
+}
+
+.delete-btn {
+    background-color: rgb(189, 20, 20);
+}
+
+.main-heading {
+    text-align: center;
+}
